@@ -1,4 +1,4 @@
-# est_yii2
+# test_yii2
 
 _Probando yii2_
 
@@ -10,7 +10,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Server apache, php 5.1 >=, mysql_
+_Server apache, php 5.4 >=, mysql_
 
 ```
 * [XAMPP](https://www.apachefriends.org/es/index.html) - Server usado
