@@ -43,14 +43,14 @@ $config = [
             ],
         ],
         'db' => $db,
-        /*
+        
         'urlManager' => [
             'enablePrettyUrl' => true,
-            'showScriptName' => false,
+            'showScriptName' => false,//agregamos esto por el htacces,para url limpia
             'rules' => [
             ],
         ],
-        */
+        
     ],
     'params' => $params,
 ];
