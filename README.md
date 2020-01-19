@@ -43,9 +43,9 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Autor ✒️
 
-* **Jonathan Castro** - *Desarrollo Fullstack* - [joncdev](https://github.com/joncdev)
+* **Jonathan Castro** - *Desarrollo Fullstack* - [joncdev]()
 
 ## Donaciones 🎁
 
-* [Paypal](https://paypal.me/programadorjonathan?locale.x=es_XC) - Muchas gracias por tu aporte.
+* [Paypal]() - Muchas gracias por tu aporte.
 
