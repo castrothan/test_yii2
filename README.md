@@ -43,7 +43,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Autor ✒️
 
-* **Jonathan Castro** - *Desarrollo Fullstack* - [joncdev]()
+* **Jonathan Castro** - *Desarrollo Fullstack* - []()
 
 ## Donaciones 🎁
 
